@@ -65,6 +65,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\medel\Script\player control 1.cs" />
+    <Compile Include="Assets\medel\Script\Camera.cs" />
+    <Compile Include="Assets\medel\Script\CoinCollect.cs" />
+    <Compile Include="Assets\medel\Script\GameController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
